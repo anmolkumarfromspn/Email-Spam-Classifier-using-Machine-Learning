@@ -17,7 +17,7 @@ Performed several necessary data cleaning steps in python using string functions
 ![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/730966a6-6eba-4aff-83b1-c9ff7fa659b3)
 
 Performed data Preprocessing to prepare data for model training and development
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/7487f6af-6bd4-4362-86e8-2ffc2f915848)
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/9764c8e0-2a2a-4791-b834-c7f9ca9cd3a3)
 
 ## EDA
 
@@ -25,7 +25,7 @@ Perfomed a brief Data Analysis as there is not much to explore in the dataset.
 ![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/730f2f1c-de31-472a-8955-2ef00eed3da7)
 
 Segregating emails based on text length: -
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/6f9fa381-1642-46fe-811e-dd284e33e263)
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/393269f1-e618-4cd2-b3c7-ca10dcea32c6)
 
 ### Wordcloud
 
