@@ -49,7 +49,7 @@ and for converting text to vectors checked for Bag of words (count vectorizer) a
 ### Evaluation Metrics
 
 I get highest precision score in Tfidf Vectorization technique and in Multinomial Naive Bayes. I will build my model with this combination.
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/c92ab07c-507e-4958-aba7-2606a36d5c5d)
+![WhatsApp Image 2023-09-21 at 21 23 57](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/e1db6ab9-fccb-4ee0-890c-bd897121296f)
 
 ## Email Spam Classifier Demo
 
