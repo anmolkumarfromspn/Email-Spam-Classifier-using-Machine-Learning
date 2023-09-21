@@ -44,7 +44,7 @@ Segregating emails based on text length: -
 Tried Naive Bayes Classifier - GaussianNB, MultinomialNB, BernoulliNB and chose one with the highest precision score for this model 
 and for converting text to vectors checked for Bag of words (count vectorizer) and tfidf vectorizer techniques and chose one with the highest precision_score.
 
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/21bb9f70-91a0-463c-8cdf-b69e97e26579)
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/f6e59bb3-c793-49ad-94e4-f7554f2ae99f)
 
 ### Evaluation Metrics
 
