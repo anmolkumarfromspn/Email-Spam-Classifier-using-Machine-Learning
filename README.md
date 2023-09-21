@@ -61,6 +61,14 @@ By Clicking on predict model will classify if this mail is spam or not spam.
 
 The email spam classifier machine learning project opens up several avenues for future development and enhancement. Firstly, there is a potential for continuous improvement in model performance through the acquisition of more extensive and diverse email datasets, including new types of spam and evolving email threats. Additionally, incorporating natural language processing techniques and deep learning architectures can further enhance the model's ability to detect subtle nuances in spam emails. Integration with real-time email systems, such as email clients and servers, could make the classifier more practical for end-users. Moreover, exploring user-specific customization options, such as allowing users to define their own spam criteria, can enhance the user experience. Lastly, research into cross-platform compatibility and mobile integration can extend the reach of the spam classifier to a wider audience, ensuring email security across various devices and email platforms. In essence, the future scope of this project involves ongoing refinement and expansion to adapt to the evolving landscape of email spam and user needs.
 
+## Limitations
+
+1. Limited Training Data: This is a small-scale project which suffer from a lack of sufficient training data. This can lead to overfitting, where the model performs well on the training data but poorly on new, unseen data.
+2. Generalization: A small-scale project may struggle with generalization to different types of spam emails or emails with varying formats and languages. So this model may not perform well on emails that differ significantly from the training data.
+3. Computational Resources: Complex machine learning models require substantial computational resources for training and inference. In a small-scale project, user may be limited by the computational power available, which can restrict the complexity of models you can use.
+4. Evolving Spam Techniques: Spam email techniques are constantly evolving. So this model may become less effective over time as spammers develop new tactics that this model hasn't seen during training.
+5. User Feedback and Adaptation: In real-world applications, user feedback is crucial for improving spam classifiers. This project does not have access to user feedback data to adapt and enhance the model.
+
 ## Challenges
 
 Training model on different combinations of count vectorizer and TFIDF Vectorizer with all Naive Bayes models and choosing best model with highest accuracy score was a complex tast 
