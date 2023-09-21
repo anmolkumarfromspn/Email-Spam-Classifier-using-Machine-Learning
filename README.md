@@ -22,8 +22,10 @@ Performed data Preprocessing to prepare data for model training and development
 ## EDA
 
 Perfomed a brief Data Analysis as there is not much to explore in the dataset.
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/730f2f1c-de31-472a-8955-2ef00eed3da7)
 
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/76b143a3-d1cf-4757-a2c7-d90c3422978a)
+Segregating emails based on text length: -
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/68761a12-18d1-45f8-8c04-41d2b83d090c)
 
 ### Wordcloud
 
