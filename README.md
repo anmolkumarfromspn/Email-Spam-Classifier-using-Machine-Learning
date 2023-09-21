@@ -99,13 +99,13 @@ Communication: Explaining my project and its results, both to technical and non-
 
 Ethical Considerations: Dealing with email data involves privacy and ethical considerations. I have a better understanding of the importance of data privacy and the ethical implications of machine learning projects.
 
-## Conclusion
-
-This project has been a testament to the power of machine learning in addressing real-world problems and has provided us with a solid foundation for future endeavors in the field of data science and artificial intelligence. It serves as a reminder that the pursuit of knowledge and innovation in the realm of technology is an ongoing journey, and we are better equipped to navigate it thanks to the insights gained from this project.
-
 ## Tools used
 
 ![image](https://github.com/anmolkumarfromspn/Instahyre-Job-Analytics-Job-Finder/assets/128449996/541d02e0-3d09-4070-825d-f799e6367866)
+
+## Conclusion
+
+This project has been a testament to the power of machine learning in addressing real-world problems and has provided us with a solid foundation for future endeavors in the field of data science and artificial intelligence. It serves as a reminder that the pursuit of knowledge and innovation in the realm of technology is an ongoing journey, and we are better equipped to navigate it thanks to the insights gained from this project.
 
 *Contact Mail: aktwenty5@gmail.com*
 
