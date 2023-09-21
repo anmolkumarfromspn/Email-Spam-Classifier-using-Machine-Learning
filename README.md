@@ -11,7 +11,7 @@ Aim is to train a model on this data and create a ML model that will take text a
 
 ![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/3ea55fed-e350-4680-bf8b-d249be078eeb)
 
-## Data Cleaning/Preprocessing
+## Data Cleaning & Preprocessing
 
 Performed several necessary data cleaning steps in python using string functions with the help of Pandas library
 ![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/730966a6-6eba-4aff-83b1-c9ff7fa659b3)
@@ -29,15 +29,15 @@ Segregating emails based on text length: -
 
 ### Wordcloud
 
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/f16b653e-4cab-4ddb-b48e-5040e045e559)
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/a8c36bc6-8618-4f94-b51b-62888c227fa4)
 
-![190df14d-0336-4732-a65a-05dc3d2a0d81](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/25290473-e77d-4369-b57d-1eb7422ce070)
+![download](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/a8c9ef61-e40a-4296-bf21-3fb3966513d1)
 
 ### Top 30 words in Ham and Spam Messages
 
-![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/907efe64-a14d-4041-bb7c-0a9b5a01c152)
+![image](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/c8166216-7c7b-487e-8dc1-97defe841b94)
 
-![ff451703-31a1-48d7-9155-b5f94e1d0f1c](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/541c50a4-7af6-4cd2-addb-65582cd08281)
+![download](https://github.com/anmolkumarfromspn/Email-Spam-Classifier-using-Machine-Learning/assets/128449996/4abc21fe-a620-4ecd-927e-112e6a20931b)
 
 ## Choosing best ML Model
 
