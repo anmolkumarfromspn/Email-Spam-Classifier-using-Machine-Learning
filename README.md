@@ -77,25 +77,25 @@ The email spam classifier machine learning project opens up several avenues for 
 
 ## Key Learnings
 
-Machine Learning Expertise: You will have gained a deeper understanding of machine learning algorithms, including supervised learning, feature engineering, model selection, and evaluation metrics. This project likely exposed you to various techniques for text data preprocessing and feature extraction specific to email content.
+Machine Learning Expertise: Gained a deeper understanding of machine learning algorithms, including supervised learning, feature engineering, model selection, and evaluation metrics. This project likely exposed me to various techniques for text data preprocessing and feature extraction specific to email content.
 
-Data Handling Skills: Dealing with email data often involves data cleaning, preprocessing, and dealing with class imbalance. You'll have honed your skills in data wrangling, which is a crucial aspect of any machine learning project.
+Data Handling Skills: Dealing with email data often involves data cleaning, preprocessing, and dealing with class imbalance. I have honed my skills in data wrangling, which is a crucial aspect of any machine learning project.
 
-Model Evaluation: You'll have learned how to properly evaluate the performance of machine learning models, especially in the context of binary classification tasks. Metrics like accuracy, precision, recall, and F1-score will be familiar to you.
+Model Evaluation: I have learned how to properly evaluate the performance of machine learning models, especially in the context of binary classification tasks. Metrics like accuracy, precision, recall, and F1-score are familiar to me.
 
-Domain Knowledge: You'll have acquired domain-specific knowledge related to email spam. Understanding the characteristics of spam emails and the evolving techniques used by spammers can be valuable in other cybersecurity-related projects.
+Domain Knowledge: I have acquired domain-specific knowledge related to email spam. Understanding the characteristics of spam emails and the evolving techniques used by spammers can be valuable in other cybersecurity-related projects.
 
-Practical Application: This project likely provided you with hands-on experience in deploying machine learning models for real-world use cases, such as email filtering. Understanding how to integrate your model into existing systems or applications is a valuable skill.
+Practical Application: This project likely provided me with hands-on experience in deploying machine learning models for real-world use cases, such as email filtering. Understanding how to integrate my model into existing systems or applications is a valuable skill.
 
-Problem-Solving Skills: You'll have encountered various challenges throughout the project, from data quality issues to model tuning. These experiences will have improved your problem-solving skills and your ability to troubleshoot issues.
+Problem-Solving Skills: I have encountered various challenges throughout the project, from data quality issues to model tuning. These experiences have improved my problem-solving skills and my ability to troubleshoot issues.
 
-Project Management: Managing a machine learning project involves planning, data collection, modeling, evaluation, and potentially deployment. You'll have gained experience in project management and time management.
+Project Management: Managing a machine learning project involves planning, data collection, modeling, evaluation, and potentially deployment. I have gained experience in project management and time management.
 
-Iterative Development: You'll have learned the importance of iteration in machine learning projects. Models often require fine-tuning and refinement, and your project will have taught you the value of continuous improvement.
+Iterative Development: I have learned the importance of iteration in machine learning projects. Models often require fine-tuning and refinement, and my project have taught me the value of continuous improvement.
 
-Communication: Explaining your project and its results, both to technical and non-technical stakeholders, is a crucial skill. You'll have improved your ability to communicate complex technical concepts in a clear and understandable manner.
+Communication: Explaining my project and its results, both to technical and non-technical stakeholders, is a crucial skill. I have improved my ability to communicate complex technical concepts in a clear and understandable manner.
 
-Ethical Considerations: Dealing with email data involves privacy and ethical considerations. You'll have a better understanding of the importance of data privacy and the ethical implications of machine learning projects.
+Ethical Considerations: Dealing with email data involves privacy and ethical considerations. I have a better understanding of the importance of data privacy and the ethical implications of machine learning projects.
 
 ## Conclusion
 
