@@ -71,9 +71,9 @@ The email spam classifier machine learning project opens up several avenues for 
 
 ## Challenges
 
-Gathering high number of records of spam and ham email samples was a challenging task.
-Training model on different combinations of count vectorizer and TFIDF Vectorizer with all Naive Bayes models and choosing best model with highest accuracy score was a complex task in this project's training phase.
-Building a strong frontend to project the model working with a user friendly interface and great user experience was also another great challenge.
+1. Gathering high number of records of spam and ham email samples was a challenging task.
+2. Training model on different combinations of count vectorizer and TFIDF Vectorizer with all Naive Bayes models and choosing best model with highest accuracy score was a complex task in this project's training phase.
+3. Building a strong frontend to project the model working with a user friendly interface and great user experience was also another great challenge.
 
 ## Key Learnings
 
