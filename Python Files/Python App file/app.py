@@ -1,10 +1,19 @@
+# Importing important libraries
+
 import streamlit as st
 import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
 from nltk.stem.porter import PorterStemmer
+
+# Backend
+
+# Declaring Stemmer Variable
+
 ps = PorterStemmer()
+
+# Creating Data Processing Function
 
 def preprocess_text(text):
     # Converting into lower-case
@@ -33,26 +42,34 @@ def preprocess_text(text):
     # Returning final text
     return " ".join(final_text)
 
+
+# Loading srtored TFIDF Vector and model using pickle library
+
 tfidf = pickle.load(open('vectorizer1.pkl','rb'))
 model = pickle.load(open('model1.pkl','rb'))
 
+# Frontend
+
 st.title('Email/SMS Spam Classifier')
 
-#Taking Input
+# Taking Input
+
 input_sms = st.text_area("Enter the message below: -")
+
+# Creating a "Predict" button 
 
 if st.button("Predict"):
 
-    #Preprocessing Input
+    # Preprocessing Input
     preprocessed_text = preprocess_text(input_sms)
 
-    #vectorizing text
+    # Vectorizing the text
     vector_input = tfidf.transform([preprocessed_text])
 
-    #Predict
+    # Predict
     result = model.predict(vector_input)[0]
 
-    #Display
+    # Display the final result
     if result == 1:
         st.header('Spam')
     else:
